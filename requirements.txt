@@ -1,7 +1,9 @@
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-torch
-scipy
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+torch==2.3.0
+scipy==1.13.0
+jupyter==1.0.0
+nbconvert==7.16.4
