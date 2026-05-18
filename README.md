@@ -56,8 +56,7 @@ Then open your browser and go to `http://localhost:8888`
 
 - Python 3.10+
 - See `requirements.txt` for all dependencies
-- Dataset: `all_2018_processed_cleaned_data.txt` (Orlenko et al. 2025 cleaned NHANES 2017-2018 pipeline — not included in repository due to data sharing considerations)
-
+- Dataset: `all_2018_processed_cleaned_data.txt` (Orlenko et al. 2025 cleaned NHANES 2017-2018 pipeline)
 ## Foundation Paper
 
 Orlenko A, Mure JD, Gluch JI, Gregg J, Compher CW, Ren Z, Koo H, Moore JH. Uncovering Dental Caries Heterogeneity in NHANES Using Machine Learning. Journal of Dental Research. 2025. doi:10.1177/00220345251398027
